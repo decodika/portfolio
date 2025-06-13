@@ -316,7 +316,7 @@ cursor: pointer;
     color: var(--second-bg-color);
 }
 @media (max-width: 1200px) {
-    html {font-size: 55%;
+    html {font-size: 50%;
   }
 }
 @media(max-width: 900px) {
